@@ -20,3 +20,5 @@ A JavaScript web application for managing and storing workouts for running and c
 - Local Storage API
 - Geolocation API
 
+**Clone the repository**
+git clone https://pavlovicana.github.io/Workouts-App/
