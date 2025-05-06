@@ -20,7 +20,3 @@ A JavaScript web application for managing and storing workouts for running and c
 - Local Storage API
 - Geolocation API
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/workout-tracker-app.git
-   cd workout-tracker-app
